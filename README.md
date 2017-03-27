@@ -1,4 +1,6 @@
-# Aesthetic iTerm2 Profile Color Theme
+# neon
+
+Aesthetic iTerm2 Profile Color Theme
 
 ## Usage
  * download `zhenyulin.itemcolors`
