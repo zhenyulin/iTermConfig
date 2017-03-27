@@ -1,11 +1,11 @@
 # neon
 
-Aesthetic iTerm2 Profile Color Theme
+Aesthetic iTerm2 Profile Theme
 
 ## Usage
  * download `neon.itemcolors`
- * open Preferences in iTerm2, switch to Profile Panel and choose Colors Tab
- * import the file
+ * double click to add it to iTerm2
+ * or open Preferences in iTerm2, switch to Profile Panel and the Colors Tab, import the file
 
 ## Preview
 ![Screenshot 1](screenshots/dir.png?raw=true "code dir")
