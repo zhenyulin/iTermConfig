@@ -8,4 +8,5 @@ Aesthetic iTerm2 Profile Color Theme
  * import the file
 
 ## Preview
-![Screenshot 1](screenshots/dir.png?raw=true "Optional Title")
+![Screenshot 1](screenshots/dir.png?raw=true "code dir")
+![Screenshot 1](screenshots/htop.png?raw=true "htop")
